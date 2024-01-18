@@ -8,3 +8,6 @@ Created on Thu Jan 18 09:38:53 2024
 
 
 print("Hello Sofia!! Hvordan har dagen vært?")
+
+print("Dagen min har vært veldig fin!")
+print("Takk som spør ;)")
